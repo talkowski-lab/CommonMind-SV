@@ -6,8 +6,8 @@ This repository includes tools and scripts adopte to run SV discovery algorithms
  - 1 mobile element insertion(MEI) discovery method: **MELT**
 
 ### DELLY
- - software:
- - reference:
+ - software: [https://github.com/dellytools/delly](https://github.com/dellytools/delly)
+ - reference: [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3436805/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3436805/)
  - command:
 
 ### LUMPY
